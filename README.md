@@ -1,6 +1,3 @@
 # hello-world
-???wakanai??
 
-a biy about yourself kusa
-
-how about next
+i am gradually understanding everything.
