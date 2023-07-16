@@ -1,5 +1,7 @@
 # hello-world
 
 
-let us test
+let us testmain
+main
+main
 
